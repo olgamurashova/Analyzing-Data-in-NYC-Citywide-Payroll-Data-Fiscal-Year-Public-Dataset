@@ -2,8 +2,11 @@
 
 ### Project overview
 
-In this project, I analyzed public NYC Payroll Data available at [here](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e). 
-To be able to manipulate the dataset, I had to import the dataset table using PostgreSQL tool called pgAdmin. 
+In this project, I conducted a simple analysis of public NYC Payroll Data . The source data is available [here](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e). 
+To be able to manipulate the dataset, I imported CVS file into a table using PostgreSQL tool called pgAdmin. 
+First, I created a new table named Public."Citywide Payroll Data Fiscal Year" with similar columns as in the original dataset. 
+
+
 
 
 1. Calculating average base salary across all agencies and boroughs in 2020:

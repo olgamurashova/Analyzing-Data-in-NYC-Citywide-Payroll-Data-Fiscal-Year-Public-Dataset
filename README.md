@@ -14,7 +14,13 @@
 
 ![10 Highest Paying Titles by Agency Borough 2020](https://user-images.githubusercontent.com/89424060/155884876-45555eef-6f2b-4609-aa17-07075ff2cb50.png)
 
-4. Determining how many employees ceased working in 2020:
+4. Returning total number of active employees in 2020:
+
+
+
+5. Determining how many employees ceased working in 2020:
+
+![Number of Employees that Ceased Working in 2020](https://user-images.githubusercontent.com/89424060/155885372-f4f7a7dc-3d67-47b1-a3c0-3bca15afe0be.png)
 
 
 

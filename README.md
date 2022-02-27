@@ -28,6 +28,8 @@
 
 7. Calculating total amount of OT paid in 2020:
 
+![Total OT paid in 2020](https://user-images.githubusercontent.com/89424060/155887113-dbb15318-16cb-48d5-8095-ca6ddea20054.png)
+
 
 
 
@@ -37,3 +39,6 @@
 
 
 ### Technologies
+
++ PostgreSQL
++ pgAdmin

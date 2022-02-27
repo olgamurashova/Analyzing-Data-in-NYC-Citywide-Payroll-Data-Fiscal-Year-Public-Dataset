@@ -16,7 +16,7 @@
 
 4. Returning total number of active employees in 2020:
 
-
+![Total Number of Active Employees in 2020](https://user-images.githubusercontent.com/89424060/155885557-06d14c8e-45cb-4fbd-acf3-ec0b126dd2d1.png)
 
 5. Determining how many employees ceased working in 2020:
 

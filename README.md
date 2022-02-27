@@ -6,7 +6,9 @@ In this project, I conducted a simple analysis of public NYC Payroll Data . The 
 To be able to manipulate the dataset, I imported CVS file into a table using PostgreSQL tool called pgAdmin. 
 First, I created a new table named Public."Citywide Payroll Data Fiscal Year" with similar columns as in the original dataset. 
 
+![TableImport1](https://user-images.githubusercontent.com/89424060/155889049-c5ba045b-8af4-47ad-b5e0-4935a9bce415.png)
 
+Then, I imported original dataset CSV file into the  table Public."Citywide Payroll Data Fiscal Year", using COPY statement as follows:
 
 
 1. Calculating average base salary across all agencies and boroughs in 2020:

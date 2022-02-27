@@ -14,7 +14,7 @@
 
 ![10 Highest Paying Titles by Agency Borough 2020](https://user-images.githubusercontent.com/89424060/155884876-45555eef-6f2b-4609-aa17-07075ff2cb50.png)
 
-4. Returning total number of active employees in 2020:
+4. Returning total number of active employees in as of June 30, 2020:
 
 ![Total Number of Active Employees in 2020](https://user-images.githubusercontent.com/89424060/155885557-06d14c8e-45cb-4fbd-acf3-ec0b126dd2d1.png)
 
@@ -22,7 +22,9 @@
 
 ![Number of Employees that Ceased Working in 2020](https://user-images.githubusercontent.com/89424060/155885372-f4f7a7dc-3d67-47b1-a3c0-3bca15afe0be.png)
 
-6. Returning the agency name that had most active employees in 2020:
+6. Returning 10 agency names that had most active employees in 2020:
+
+
 
 
 

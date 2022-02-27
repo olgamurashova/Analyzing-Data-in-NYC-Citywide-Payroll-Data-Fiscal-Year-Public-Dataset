@@ -26,6 +26,10 @@
 
 ![10 Agencies with Most Employees2020](https://user-images.githubusercontent.com/89424060/155886885-be172d90-c91f-48fa-84ab-0ce82bac57de.png)
 
+7. Calculating total amount of OT paid in 2020:
+
+
+
 
 
 

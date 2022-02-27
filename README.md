@@ -22,6 +22,10 @@
 
 ![Number of Employees that Ceased Working in 2020](https://user-images.githubusercontent.com/89424060/155885372-f4f7a7dc-3d67-47b1-a3c0-3bca15afe0be.png)
 
+6. Returning the agency name that had most active employees in 2020:
+
+
+
 
 
 

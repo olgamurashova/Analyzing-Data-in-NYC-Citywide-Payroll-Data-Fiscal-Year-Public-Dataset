@@ -14,5 +14,9 @@
 
 ![10 Highest Paying Titles by Agency Borough 2020](https://user-images.githubusercontent.com/89424060/155884876-45555eef-6f2b-4609-aa17-07075ff2cb50.png)
 
+4. Determining how many employees ceased working in 2020:
+
+
+
 
 ### Technologies

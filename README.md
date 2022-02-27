@@ -24,6 +24,7 @@
 
 6. Returning 10 agency names that had most active employees in 2020:
 
+![10 Agencies with Most Employees2020](https://user-images.githubusercontent.com/89424060/155886885-be172d90-c91f-48fa-84ab-0ce82bac57de.png)
 
 
 
